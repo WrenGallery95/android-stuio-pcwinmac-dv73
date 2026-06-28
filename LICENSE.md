@@ -1,4 +1,4 @@
-# 
+# Exclusif JetBrains Rider scripts pour Mac OS | Premium JetBrains Rider scripts pour PC Windows. Avec intégration Git et gestion des conteneurs — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
